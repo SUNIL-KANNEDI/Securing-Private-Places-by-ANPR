@@ -36,11 +36,3 @@ Here’s a preview of the ANPR system detecting license plates in real-time:
 
 ---
 
-## 🎥 Demo  
-
-<video src="https://github.com/SUNIL-KANNEDI/Securing-Private-Places-by-ANPR/raw/main/ANPR/RealTimeData/video_with_plates2.mp4" 
-       controls autoplay muted loop width="700">
-</video>  
-
----
-
