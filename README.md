@@ -12,6 +12,12 @@ The system captures video frames, detects vehicles & number plates using YOLOv8,
 
 ---
 
+## 🎥 Demo
+
+Here’s a preview of the ANPR system detecting license plates in real-time:
+
+![Demo Video](ANPR/RealTimeData/demo.gif)
+
 ## ⚙️ Features  
 - ✅ Real-time vehicle detection using **YOLOv8**  
 - ✅ Automatic number plate detection & recognition (OCR)  
