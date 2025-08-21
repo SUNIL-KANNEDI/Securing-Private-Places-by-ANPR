@@ -1,0 +1,15 @@
+# dataset.yaml for ANPRDataset2025
+# YOLOv5 / YOLOv8 format
+
+path: /content/drive/MyDrive/Projects/ANPRDataset2025  # root dataset path
+
+train: images/train  # train images (relative to 'path')
+val: images/val      # val images
+test: images/test    # test images
+
+# Number of classes
+nc: 1
+
+# Class names
+names:
+  0: license_plate
